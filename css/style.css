@@ -1,0 +1,46 @@
+body{
+    background-color: #9DDE8B;
+}
+h1 {
+    color: rgb(59, 9, 9);
+    /* background-color: rgb(112, 211, 178); */
+    padding-left: 5px;
+}
+
+table {
+    border: 3px solid rgb(41, 5, 5);
+    border-collapse: collapse;
+    padding: 7px;
+    border-radius: 20px;
+    border-color: rgb(49, 15, 15);
+    width: 40%;
+}
+caption{
+    font-size: 35px;
+}
+
+th {
+    height: 60px;
+    width: 50px;
+
+}
+
+th {
+    border: 2px solid rgb(78, 19, 19);
+    border-collapse: collapse;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-color: rgb(49, 15, 15);
+    border-style: groove;
+    text-align: center;
+}
+
+td {
+    border: 2px solid rgb(78, 19, 19);
+    border-collapse: collapse;
+    padding: 7px;
+    background-color: blanchedalmond;
+    border-color: rgb(49, 15, 15);
+    border-style: groove;
+    text-align: left;
+}
